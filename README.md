@@ -2,5 +2,4 @@
 
 ## Intregantes
 * Andrés Holguín Restrepo
-* 
-*
+
